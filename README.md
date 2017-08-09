@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.org/rafaelmonteiro/pokemon-battle-vue-php.svg?branch=master)](https://travis-ci.org/rafaelmonteiro/pokemon-battle-vue-php)
-[![Code Climate](https://codeclimate.com/github/rafaelmonteiro/pokemon-battle-vue-php.svg)](https://codeclimate.com/github/codeclimate/php-test-reporter)
-[![Test Coverage](https://codeclimate.com/github/rafaelmonteiro/pokemon-battle-vue-php/badges/coverage.svg)](https://codeclimate.com/github/codeclimate/php-test-reporter/coverage)
+[![Code Climate](https://codeclimate.com/github/rafaelmonteiro/pokemon-battle-vue-php.svg)](https://codeclimate.com/github/rafaelmonteiro/pokemon-battle-vue-php)
+[![Test Coverage](https://codeclimate.com/github/rafaelmonteiro/pokemon-battle-vue-php/badges/coverage.svg)](https://codeclimate.com/github/rafaelmonteiro/pokemon-battle-vue-php/coverage)
 
 # pokemon-battle-vue-php
 A simple Pokémon battle game made with VueJS and PHP (Lumen)
