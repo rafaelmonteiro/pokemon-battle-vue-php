@@ -13,4 +13,4 @@ install:
   - composer install
 
 after_success:
-  - CODECLIMATE_REPO_TOKEN=$code_climate_token vendor/bin/test-reporter
+  - vendor/bin/test-reporter
