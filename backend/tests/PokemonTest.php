@@ -24,11 +24,4 @@ class PokemonTest extends TestCase
              ]);
     }
 
-    public function testSelectErrorMessage()
-    {
-        $this->json('POST', '/select')
-             ->seeJson([
-                'errors'=>'Please select a valid Pokemon'
-             ]);
-    }
 }
